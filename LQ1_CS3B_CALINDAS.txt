@@ -1,0 +1,70 @@
+Microsoft Windows [Version 10.0.22631.4169]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\System32>cd C:\Users\Admin\Desktop
+
+C:\Users\Admin\Desktop>mkdir "LQ1_CS3B_CALINDAS"
+
+C:\Users\Admin\Desktop>cd LQ1_CS3B_CALINDAS
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>mkdir "Major Subjects" "Minor Subjects"
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>cd "Major Subjects"
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Major Subjects>mkdir Networks SoftEngr PL Automata OS
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Major Subjects>cd ..
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>cd "Minor Subjects"
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>mkdir Networks SoftEngr PL
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>ren Networks "Communicating Effectively"
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>ren PL "Life and Works of Rizal"
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>md SoftEngr\SampleFolder
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>move SoftEngr/SampleFolder "Life and Works of Rizal"
+        1 dir(s) moved.
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>move "Minor Subjects\Life and Works of Rizal\SampleFolder" "Minor Subjects\SampleFolder" && rmdir /S /Q "Minor Subjects\Life and Works of Rizal"
+        1 dir(s) moved.
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>copy con "student info.txt"
+Adrian Cedric O. Calindas
+Brgy. Bagani Gabor Candon City
+April 23 2004
+AC
+        1 file(s) copied.
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>echo "Christian D. Rupisan Darapidap, Candon City, Ilocos Sur December 2, 2003 Ian" > "classmate info".txt
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>copy "student info.txt" "Major Subjects\Automata" & copy "student info.txt" "Major Subjects\Networks" & copy "student info.txt" "Major Subjects\OS" & copy "student info.txt" "Major Subjects\PL" & copy "student info.txt" "Major Subjects\SoftEngr" && copy "classmate info.txt" "Minor Subjects\Communicating Effectively" & copy "classmate info.txt" "Minor Subjects\SampleFolder" & copy "classmate info.txt" "Minor Subjects\SoftEngr"
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+
+fc "Major Subjects\PL\student info.txt" "Minor Subjects\SoftEngr\classmate info.txt"
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>tree
+Folder PATH listing
+Volume serial number is 2677-8753
+C:.
+├───Major Subjects
+│   ├───Automata
+│   ├───Networks
+│   ├───OS
+│   ├───PL
+│   └───SoftEngr
+└───Minor Subjects
+    ├───Communicating Effectively
+    ├───SampleFolder
+    └───SoftEngr
+
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>

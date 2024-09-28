@@ -1,0 +1,269 @@
+
+C:\Windows\System32>cd C:\Users\Admin\Desktop
+
+C:\Users\Admin\Desktop>mkdir "CS3B Lab Act 1"
+
+C:\Users\Admin\Desktop>cd "CS3B Lab Act 1"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>mkdir "First Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>cd "First Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year>mkdir "Discrete Mathematics"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year>cd "Discrete Mathematics"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Discrete Mathematics>mkdir "Calindas Adrian Cedric O." "Cynthia Ancheta"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Discrete Mathematics>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 2677-8753
+
+ Directory of C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Discrete Mathematics
+
+09/22/2024  04:53 PM    <DIR>          .
+09/22/2024  04:51 PM    <DIR>          ..
+09/22/2024  04:53 PM    <DIR>          Calindas Adrian Cedric O
+09/22/2024  04:53 PM    <DIR>          Cynthia Ancheta
+               0 File(s)              0 bytes
+               4 Dir(s)   7,799,001,088 bytes free
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Discrete Mathematics>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year>mkdir "Fundamentals to Programming"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year>cd "Fundamentals to Programming"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Fundamentals to Programming>mkdir "Calindas Adrian Cedric O." "Evangelista April"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Fundamentals to Programming>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year>mkdir "Introduction to Computing"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year>cd "Introduction to Computing"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Introduction to Computing>mkdir "Calindas Adrian Cedric O." "Valdez Gerald"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year\Introduction to Computing>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\First Year>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>mkdir "Second Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>cd "Second Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year>mkdir "Computer Architecture and Organization"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year>cd "Computer Architecture and Organization"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year\Computer Architecture and Organization>mkdir "Calindas Adrian Cedric O." "Valdez Helen"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year\Computer Architecture and Organization>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year>mkdir "Data Structures and Algorithms"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year>cd "Data Structures and Algorithms"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year\Data Structures and Algorithms>mkdir "Calindas Adrian Cedric O." "Batin Ramil"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year\Data Structures and Algorithms>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year>mkdir "Object-Oriented Programming"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year>cd "Object-Oriented Programming"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year\Object-Oriented Programming>mkdir "Calindas Adrian Cedric O." "Rafael Kimpoy"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year\Object-Oriented Programming>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Second Year>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>mkdir "Third Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>cd "Third Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year>mkdir "Computational Science"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year>cd "Computational Science"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year\Computational Science>mkdir "Calindas Adrian Cedric O." "Valdez Helen"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year\Computational Science>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year>mkdir "Networks and Communication"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year>cd "Networks and Communication"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year\Networks and Communication>mkdir "Calindas Adrian Cedric O." "Vitruvious Barayuga"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year\Networks and Communication>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year>mkdir "Operating System"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year>cd "Operating System"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year\Operating System>mkdir "Calindas Adrian Cedric O." "Clifford Owen Pascua"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year\Operating System>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Third Year>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>mkdir "Fourth Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>cd "Fourth Year"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year>mkdir "Project Study 1"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year>cd "Project Study 1"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year\Project Study 1>mkdir "Calindas Adrian Cedric O." "Vitruvious Barayuga"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year\Project Study 1>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year>mkdir "Multimedia System"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year>cd "Multimedia System"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year\Multimedia System>mkdir "Calindas Adrian Cedric O." "Valdez Gerald"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year\Multimedia System>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year>mkdir "Seminars and Tours"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year>cd "Seminars and Tours"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year\Seminars and Tours>mkdir "Calindas Adrian Cedric O." "Gacusan Ronald"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year\Seminars and Tours>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Fourth Year>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>mkdir "Alphabet" "Numbers"
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>cd Numbers
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Numbers>md 1\2\3\4\5\6\7\8\9\10\11\12\13\14\15\16\17\18\19\20\21\22\23\24\25\26\27\28\29\30
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Numbers>cd ..
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>cd Alphabet
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet>md a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet>cd a
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a>cd b
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b>cd c
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c>cd d
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d>cd e
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e>cd f
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f>cd g
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g>cd h
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h>cd i
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h\i>cd j
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h\i\j>cd k
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h\i\j\k>cd l
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h\i\j\k\l>cd m
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h\i\j\k\l\m>cd n
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h\i\j\k\l\m\n>rmdir o /s/q && mkdir x\y
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Alphabet\a\b\c\d\e\f\g\h\i\j\k\l\m\n>cd C:\Users\Admin\Desktop\CS3B Lab Act 1\Numbers\1\2\3\4\5\6\7\8\9
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Numbers\1\2\3\4\5\6\7\8\9>rmdir 10 /s/q && mkdir 12\13\14\15\16\17\18\19
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1\Numbers\1\2\3\4\5\6\7\8\9>cd C:\Users\Admin\Desktop\CS3B Lab Act 1
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>tree
+Folder PATH listing
+Volume serial number is 2677-8753
+C:.
+├───Alphabet
+│   └───a
+│       └───b
+│           └───c
+│               └───d
+│                   └───e
+│                       └───f
+│                           └───g
+│                               └───h
+│                                   └───i
+│                                       └───j
+│                                           └───k
+│                                               └───l
+│                                                   └───m
+│                                                       └───n
+│                                                           └───x
+│                                                               └───y
+├───First Year
+│   ├───Discrete Mathematics
+│   │   ├───Calindas Adrian Cedric O
+│   │   └───Cynthia Ancheta
+│   ├───Fundamentals to Programming
+│   │   ├───Calindas Adrian Cedric O
+│   │   └───Evangelista April
+│   └───Introduction to Computing
+│       ├───Calindas Adrian Cedric O
+│       └───Valdez Gerald
+├───Fourth Year
+│   ├───Multimedia System
+│   │   ├───Calindas Adrian Cedric O
+│   │   └───Valdez Gerald
+│   ├───Project Study 1
+│   │   ├───Calindas Adrian Cedric O
+│   │   └───Vitruvious Barayuga
+│   └───Seminars and Tours
+│       ├───Calindas Adrian Cedric O
+│       └───Gacusan Ronald
+├───Numbers
+│   └───1
+│       └───2
+│           └───3
+│               └───4
+│                   └───5
+│                       └───6
+│                           └───7
+│                               └───8
+│                                   └───9
+│                                       └───12
+│                                           └───13
+│                                               └───14
+│                                                   └───15
+│                                                       └───16
+│                                                           └───17
+│                                                               └───18
+│                                                                   └───19
+├───Second Year
+│   ├───Computer Architecture and Organization
+│   │   ├───Calindas Adrian Cedric O
+│   │   └───Valdez Helen
+│   ├───Data Structures and Algorithms
+│   │   ├───Batin Ramil
+│   │   └───Calindas Adrian Cedric O
+│   └───Object-Oriented Programming
+│       ├───Calindas Adrian Cedric O
+│       └───Rafael Kimpoy
+└───Third Year
+    ├───Computational Science
+    │   ├───Calindas Adrian Cedric O
+    │   └───Valdez Helen
+    ├───Networks and Communication
+    │   ├───Calindas Adrian Cedric O
+    │   └───Vitruvious Barayuga
+    └───Operating System
+        ├───Calindas Adrian Cedric O
+        └───Clifford Owen Pascua
+
+C:\Users\Admin\Desktop\CS3B Lab Act 1>
