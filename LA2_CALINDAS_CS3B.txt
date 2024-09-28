@@ -1,0 +1,109 @@
+
+
+Lazarus@Nyx MINGW64 ~
+$ cd Desktop
+
+Lazarus@Nyx MINGW64 ~/Desktop
+$ mkdir "CS3B Lab Act 2"
+
+Lazarus@Nyx MINGW64 ~/Desktop
+$ cd "CS3B Lab Act 2"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ touch "Personal Files/studentName.txt" && echo "Adrian Cedric O. Calindas" > "Personal Files/studentName.txt"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ touch "Personal Files/studentAddress.txt" && echo "Brgy. Bagani Gabor" > "Personal Files/studentAddress.txt"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ touch "Personal Files/studentCourse.txt" && echo "Bachelor of Computer Science, 3rd Year Section B" > "Personal Files/studentCourse.txt"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ mkdir -p "School Files/Operating System" "School Files/Programming Languages"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ cp -p "Personal Files/studentName.txt" "School Files/Operating System" & cp -p "Personal Files/studentName.txt" "School Files/Programming Languages"
+
+[1] 2009
+[1]+  Done                    cp -p "Personal Files/studentName.txt" "School Files/Operating System"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ cd "School Files\Operating System"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files/Operating System
+$ mv studentName.txt studentName_OS.txt
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files/Operating System
+$ cd ..
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files
+$ cd "Programming Languages"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files/Programming Languages
+$ mv studentName.txt studentName_PL.txt
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files/Programming Languages
+$ cd ..
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files
+$ touch "Operating System/classSchedule.txt" & touch "Programming Languages/classSchedule.txt"
+[1] 2144
+[1]+  Done                    touch "Operating System/classSchedule.txt"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files
+$ cat "Operating System/classSchedule.txt" & cat "Programming Languages/classSchedule.txt"
+[1] 2271
+A. CS306 OPERATING SYSTEMS
+B. Tuesday/Thursday 4:00 - 5:30pm
+C. Cor - B
+D. Clifford Owen PascuaA. CS306 OPERATING SYSTEMS
+B. Tuesday/Thursday 4:00 - 5:30pm
+C. Cor - B
+D. Clifford Owen Pascua[1]+  Done                    cat "Operating System/classSchedule.txt"
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2/School Files
+$ cd ..
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$  comp "School Files/Operating System/classSchedule.txt" "School Files/Programming Languages/classSchedule.txt"
+Comparing classSchedule.txt and School Files/Programming Languages/classSchedule.txt...
+Files compare OK
+
+Compare more files (Y/N) ? N
+N
+
+// I used comp because I am using GitBash MinGW-w64 -AC//
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ cp -p "Personal Files/studentAddress.txt" "School Files/Operating System" & cp -p "Personal Files/studentAddress.txt" "School Files/Programming Languages" & rm -f "School Files/Operating System/studentAddress.txt" & rm -f "School Files/Programming Languages/studentAddress.txt"
+[1] 458
+[2] 459
+[3] 460
+[1]   Done                    cp -p "Personal Files/studentAddress.txt" "School Files/Operating System"
+[2]-  Done                    cp -p "Personal Files/studentAddress.txt" "School Files/Programming Languages"
+[3]+  Done                    rm
+
+// I used rm instead of del because of GitBash -AC//
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$ tree
+.
+|-- Personal Files
+|   |-- studentAddress.txt
+|   |-- studentCourse.txt
+|   `-- studentName.txt
+|-- School Files
+|   |-- Operating System
+|   |   |-- classSchedule.txt
+|   |   `-- studentName_OS.txt
+|   `-- Programming Languages
+|       |-- classSchedule.txt
+|       `-- studentName_PL.txt
+`-- desktop.ini
+
+4 directories, 8 files
+
+Lazarus@Nyx MINGW64 ~/Desktop/CS3B Lab Act 2
+$
+
+
