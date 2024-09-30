@@ -28,6 +28,8 @@ C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>md SoftEngr\SampleFolder
 C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>move SoftEngr/SampleFolder "Life and Works of Rizal"
         1 dir(s) moved.
 
+C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS\Minor Subjects>cd ..
+
 C:\Users\Admin\Desktop\LQ1_CS3B_CALINDAS>move "Minor Subjects\Life and Works of Rizal\SampleFolder" "Minor Subjects\SampleFolder" && rmdir /S /Q "Minor Subjects\Life and Works of Rizal"
         1 dir(s) moved.
 
