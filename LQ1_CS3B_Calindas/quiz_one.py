@@ -2,7 +2,7 @@
 
 #Groupmates Full Names
 GroupmateNamel = "Adrian Cedric 0. Calindas"
-GroupmateName2= "Chryson M. Valdez"
+GroupmateName2 = "Chryson M. Valdez"
 GroupmateName3 = "Sharmaine N. Gasatan"
 
 #Groupmates Ages
